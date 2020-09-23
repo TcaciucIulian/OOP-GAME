@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1556124527 source:c:\users\iulia\onedrive\desktop\proiect 2\main.cpp
+	<iostream>
+	"clase.h"
+	"robot.h"
+
+1556123666 source:c:\users\iulia\onedrive\desktop\proiect 2\game.cpp
+	<iostream>
+	"clase.h"
+	"robot.h"
+
+1556124485 c:\users\iulia\onedrive\desktop\proiect 2\clase.h
+
+1555948649 c:\users\iulia\onedrive\desktop\proiect 2\item.h
+
+1556124300 c:\users\iulia\onedrive\desktop\proiect 2\robot.h
+
+1556123606 source:c:\users\iulia\onedrive\desktop\proiect 2\robot.cpp
+	<iostream>
+	"clase.h"
+	"robot.h"
+
+1556124738 source:c:\users\iulia\onedrive\desktop\sem 2\poo\teme\proiect 2\proiect 2\game.cpp
+	<iostream>
+	"clase.h"
+	"robot.h"
+
+1556124485 c:\users\iulia\onedrive\desktop\sem 2\poo\teme\proiect 2\proiect 2\clase.h
+
+1556124300 c:\users\iulia\onedrive\desktop\sem 2\poo\teme\proiect 2\proiect 2\robot.h
+
+1556124527 source:c:\users\iulia\onedrive\desktop\sem 2\poo\teme\proiect 2\proiect 2\main.cpp
+	<iostream>
+	"clase.h"
+	"robot.h"
+
+1556123606 source:c:\users\iulia\onedrive\desktop\sem 2\poo\teme\proiect 2\proiect 2\robot.cpp
+	<iostream>
+	"clase.h"
+	"robot.h"
+
