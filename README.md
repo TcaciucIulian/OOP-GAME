@@ -1,4 +1,4 @@
-# POO-GAME
+# OOP-GAME
 
 # Game title : The walk 
 
