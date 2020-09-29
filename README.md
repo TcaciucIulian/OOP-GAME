@@ -2,12 +2,12 @@
 
 # Game title : The walk 
 
-Avem o harta pe care se afla un robot (inn coltul din stanga sus). Pe harta
-exista o locatie in care robotul trebuie sa ajunga. La fiecare pas robotul alege o
-noua pozitie pe care sa se mute, astfel incat noua pozitie sa  il aduca cu un pas
-mai aproape de locatia finala. De asemenea pe harta sunt distribuite capcane si
-itemi care pot ajuta robotul in calatoria lui. Unele item-uri pot fi folosite doar
-daca tipul robotului este compatibil cu item-ul. Robotul poate executa o mutare
-de cel mult o pozitie per runda, iar noua pozitie nu poate fi la o distanta mai
-mare de 1 fata de pozitia in care se alfa. Insa robotul poate ”vedea” la maxim
-4 pozitii fata de pozitia lui curenta. 
+We have a map on which there is a robot (in the upper left corner). On the map
+there's a location where the robot has to get to. At each step the robot chooses a
+the new position to move, so that the new position brings it one step
+closer to the final location. Also on the map are distributed traps and
+Items that can help the robot on its journey. Some items can only be used
+if the robot type is compatible with the item. The robot can execute a move
+not more than one position per round, and the new position cannot be at a distance
+1 to the position in which it is alpha. But the robot can "see" to the fullest
+Four positions from his current position. 
